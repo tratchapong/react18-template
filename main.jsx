@@ -3,7 +3,7 @@ function App() {
   
   return (
     <div className="app">
-      Codecamp19
+      <h1>React18 Playground</h1>
     </div>
   )
 }
